@@ -24,7 +24,3 @@ flutter:
       android:
         package: com.melihhakanpektas.flutter_midi_pro
         pluginClass: FlutterMidiProPlugin
-      ios:
-        pluginClass: FlutterMidiProPlugin
-      macos:
-        pluginClass: FlutterMidiProPlugin
